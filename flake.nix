@@ -1,5 +1,5 @@
 {
-  description = "🍁 Generate infrastructure and network diagrams directly from your NixOS configurations";
+  description = "Test";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
